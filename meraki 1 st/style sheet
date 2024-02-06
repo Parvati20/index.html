@@ -1,0 +1,13 @@
+table , td, th{
+            border: 1px solid black;
+        }
+        th{
+            border-color:red;
+            border-style:solid ;
+            background-color: aqua;
+        }
+        td{
+            border-style: thick;
+            border-color: black;
+        }
+        
